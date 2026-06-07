@@ -20,7 +20,7 @@ public sealed class HttpHtpcService : BackgroundService
 {
     // CHANGE THESE
     private const string ListenPrefix = "http://+:8787/";
-    private const string SecretToken = "GENERIC_TOKEN";
+    private const string SecretToken = "YOUR_TOKEN";
 
     private readonly ILogger<HttpHtpcService> _logger;
 

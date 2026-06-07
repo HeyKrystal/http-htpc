@@ -7,7 +7,7 @@ Tiny LAN HTTP remote-control receiver for a Windows HTPC/VM.
 Example:
 
 ```text
-http://WRAITH-IP:8787/playpause?token=YOUR_TOKEN
+http://[HOST_IP]:8787/playpause?token=YOUR_TOKEN
 ```
 
 ## Requirements
